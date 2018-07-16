@@ -10,7 +10,7 @@ Lecture notes from the summer program led by Prof. Eyvindur Palsson of Virginia 
 
 The following **required** functionality is completed:
 
-Day 1-9:
+Day 1-10:
 
 > - [x] Lecture notes.
 > - [ ] Graphs.
